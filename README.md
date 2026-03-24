@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://discord.com/users/midhun_n">
+  <a href="https://discord.com/users/senpaiiiog">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
   </a>
 
